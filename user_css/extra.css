@@ -1,0 +1,23 @@
+* {
+    font-family:Arial;
+    color:white;
+    background-color:black;
+    text-align: center;
+    padding-top: 0.5rem;
+}
+li {
+    list-style: none;
+    font-size: 2rem;   
+}
+p {
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.12rem;
+}
+h1 {
+    font-size: 3rem;
+}
+#controls {
+    font-size: 2rem;
+}
